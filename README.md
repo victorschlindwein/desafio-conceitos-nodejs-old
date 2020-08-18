@@ -1,7 +1,7 @@
 # desafio-conceitos-nodejs
 Desafio solicitado no primeiro módulo do GoStack da RocketSeat.
 
-Esse projeto foi criado e aprovados em todos os testes abaixo:
+Esse projeto foi criado para ser aprovado em todos os testes abaixo:
 
 - **`should be able to create a new repository`**: Para que esse teste passe, sua aplicação deve permitir que um repositório seja criado, e retorne um json com o projeto criado.
 
